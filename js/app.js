@@ -14,6 +14,7 @@ const formSubmitHandler = (event) => {
 
   // 결과 값 출력
   output.textContent = result;
+  alert(result);
 };
 
 submitForm.addEventListener('submit', formSubmitHandler);
