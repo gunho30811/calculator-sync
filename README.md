@@ -19,3 +19,4 @@ feature/html-> html 처리, 분담: BOB <br>
 feature/css-> css 처리, 분담: Eve<br>
 feature/js-> js 처리, 분담: Alice or Alice2<br>
 dev -> Members want to merge plz use dev_branch. 
+(1)
